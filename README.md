@@ -1,0 +1,1 @@
+Foocamp exercises
